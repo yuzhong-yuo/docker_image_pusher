@@ -1,5 +1,4 @@
-gcr.io/cadvisor/cadvisor:v0.49.1
 grafana/grafana：10.0.9
-prom/node-exporter：v1.8.1
+prom/node-exporter：v1.81
 prom/prometheus：2.53.0
-prom/alermanager：0.27.0
+prom/alermanager：0.27.0 
