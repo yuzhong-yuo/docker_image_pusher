@@ -1,1 +1,1 @@
-prom/prometheus:v2.52.2
+hub-mirror.c.163.com/prom/prometheus:v2.52.2
