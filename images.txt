@@ -1,1 +1,1 @@
-prometheus:v2.52.2
+prom/prometheus:v2.52.2
